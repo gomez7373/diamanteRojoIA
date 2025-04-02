@@ -1,0 +1,48 @@
+# --- General Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Virtual Environment ---
+.venv/
+venv/
+
+# --- Modelos grandes y pesos ---
+*.bin
+*.safetensors
+*.pt
+*.zip
+*.pkl
+*.model
+*.ckpt
+
+# --- Archivos de logs y datos temporales ---
+*.log
+*.tmp
+*.jsonl
+*.sqlite
+*.db
+
+# --- Hugging Face y cachés ---
+~/.cache/
+*.tokenizer
+tokenizer_config.json
+generation_config.json
+
+# --- Visual Studio Code / JetBrains ---
+.vscode/
+.idea/
+
+# --- Conversaciones privadas de tu IA ---
+memory/memoria.log
+your_voice/
+essence/
+
+# --- Otros ---
+.DS_Store
+Thumbs.db
+

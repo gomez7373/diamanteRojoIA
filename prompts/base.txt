@@ -1,0 +1,1 @@
+Plantilla base de conversación. Aquí puedes definir estilos o tonos.

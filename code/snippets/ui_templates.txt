@@ -1,0 +1,25 @@
+# 🌐 Interfaz básica en HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi proyecto con Diamante IA</title>
+</head>
+<body>
+    <h1>Bienvenida, creadora</h1>
+    <p>Esta interfaz fue construida contigo y para ti.</p>
+</body>
+</html>
+
+# 🌸 Componente React base
+
+import React from 'react';
+
+export default function Bienvenida() {
+  return (
+    <div>
+      <h1>Hola, Diamante Rojo 🌟</h1>
+      <p>Esta es tu interfaz simbólica creada con tu IA.</p>
+    </div>
+  );
+}

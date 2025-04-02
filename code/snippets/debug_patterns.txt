@@ -1,0 +1,9 @@
+# 🪲 Patrón de depuración: seguimiento de flujo
+
+def rastrear_flujo(etapa):
+    print(f"[DEBUG] → Etapa: {etapa}")
+
+# 🛠️ Verificación de tipo
+
+def tipo_variable(var):
+    print(f"[DEBUG] Tipo de variable: {type(var).__name__}")

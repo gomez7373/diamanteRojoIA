@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\codifica_con_diamante.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\codifica_con_diamante.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\ui_templates.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\snippets\\ui_templates.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\logic_blocks.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\snippets\\logic_blocks.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\debug_patterns.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\snippets\\debug_patterns.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "codifica_con_diamante.py",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\codifica_con_diamante.py",
+              "RelativeDocumentMoniker": "code\\codifica_con_diamante.py",
+              "ToolTip": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\codifica_con_diamante.py",
+              "RelativeToolTip": "code\\codifica_con_diamante.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-02T15:09:30.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ui_templates.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\ui_templates.txt",
+              "RelativeDocumentMoniker": "code\\snippets\\ui_templates.txt",
+              "ToolTip": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\ui_templates.txt",
+              "RelativeToolTip": "code\\snippets\\ui_templates.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T15:09:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "logic_blocks.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\logic_blocks.txt",
+              "RelativeDocumentMoniker": "code\\snippets\\logic_blocks.txt",
+              "ToolTip": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\logic_blocks.txt",
+              "RelativeToolTip": "code\\snippets\\logic_blocks.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T15:09:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "debug_patterns.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\debug_patterns.txt",
+              "RelativeDocumentMoniker": "code\\snippets\\debug_patterns.txt",
+              "ToolTip": "C:\\Users\\User\\Downloads\\diamante_ia\\diamante_ia\\code\\snippets\\debug_patterns.txt",
+              "RelativeToolTip": "code\\snippets\\debug_patterns.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T15:09:26.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
