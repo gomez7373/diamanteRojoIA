@@ -10,6 +10,7 @@ build/
 # --- Virtual Environment ---
 .venv/
 venv/
+diamante_ia/.venv/
 
 # --- Modelos grandes y pesos ---
 *.bin
