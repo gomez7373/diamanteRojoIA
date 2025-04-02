@@ -1,0 +1,11 @@
+# 🧠 Validación de entrada de usuario
+
+def validar_entrada(texto):
+    if not texto.strip():
+        return False
+    return True
+
+# 🔄 Conversión de lista a diccionario indexado
+
+def lista_a_diccionario(lista):
+    return {i: valor for i, valor in enumerate(lista)}
